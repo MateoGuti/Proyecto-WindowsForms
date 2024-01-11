@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Documents\CodigosC#\ProyectoEmpresarial2\ProyectoEmpresarial2\bin\Release\ProyectoEmpresarial2.exe.config
+C:\Users\USUARIO\Documents\CodigosC#\ProyectoEmpresarial2\ProyectoEmpresarial2\bin\Release\ProyectoEmpresarial2.exe
+C:\Users\USUARIO\Documents\CodigosC#\ProyectoEmpresarial2\ProyectoEmpresarial2\bin\Release\ProyectoEmpresarial2.pdb
+C:\Users\USUARIO\Documents\CodigosC#\ProyectoEmpresarial2\ProyectoEmpresarial2\obj\Release\ProyectoEmpresarial2.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\CodigosC#\ProyectoEmpresarial2\ProyectoEmpresarial2\obj\Release\ProyectoEmpresarial2.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Documents\CodigosC#\ProyectoEmpresarial2\ProyectoEmpresarial2\obj\Release\ProyectoEmpresarial2.Form1.resources
+C:\Users\USUARIO\Documents\CodigosC#\ProyectoEmpresarial2\ProyectoEmpresarial2\obj\Release\ProyectoEmpresarial2.Properties.Resources.resources
+C:\Users\USUARIO\Documents\CodigosC#\ProyectoEmpresarial2\ProyectoEmpresarial2\obj\Release\ProyectoEmpresarial2.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\CodigosC#\ProyectoEmpresarial2\ProyectoEmpresarial2\obj\Release\ProyectoEmpresarial2.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\CodigosC#\ProyectoEmpresarial2\ProyectoEmpresarial2\obj\Release\ProyectoEmpresarial2.exe
+C:\Users\USUARIO\Documents\CodigosC#\ProyectoEmpresarial2\ProyectoEmpresarial2\obj\Release\ProyectoEmpresarial2.pdb

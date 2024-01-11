@@ -1,0 +1,6 @@
+C:\Users\USUARIO\Documents\CodigosC#\ProyectoEmpresarial2\Controlador\bin\Debug\Controlador.dll
+C:\Users\USUARIO\Documents\CodigosC#\ProyectoEmpresarial2\Controlador\bin\Debug\Controlador.pdb
+C:\Users\USUARIO\Documents\CodigosC#\ProyectoEmpresarial2\Controlador\obj\Debug\Controlador.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\CodigosC#\ProyectoEmpresarial2\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\CodigosC#\ProyectoEmpresarial2\Controlador\obj\Debug\Controlador.dll
+C:\Users\USUARIO\Documents\CodigosC#\ProyectoEmpresarial2\Controlador\obj\Debug\Controlador.pdb
